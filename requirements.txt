@@ -1,0 +1,5 @@
+python-docx
+openai
+faiss-cpu
+tiktoken
+langchain
